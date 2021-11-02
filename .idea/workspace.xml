@@ -20,27 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71fa540d-837b-4ac2-9a4b-19d0dc306ca2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/home/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/element.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635737909741</updated>
       <workItem from="1635737912110" duration="15445000" />
-      <workItem from="1635817943174" duration="11761000" />
+      <workItem from="1635817943174" duration="13559000" />
     </task>
     <servers />
   </component>
@@ -105,5 +85,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="936" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1635840768480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="936" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1635840768480" />
   </component>
 </project>
