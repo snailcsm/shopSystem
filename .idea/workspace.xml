@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71fa540d-837b-4ac2-9a4b-19d0dc306ca2" name="Default Changelist" comment="" />
+    <list default="true" id="71fa540d-837b-4ac2-9a4b-19d0dc306ca2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/193d2b5cde31c8da76753f496cf53949.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/193d2b5cde31c8da76753f496cf53949.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1a4d209478031dcc6f3e527b31309409.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1a4d209478031dcc6f3e527b31309409.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/79955882d0e8edd76341edb27d89d3db.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/79955882d0e8edd76341edb27d89d3db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b856a81fea793b20051f2500addad400.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b856a81fea793b20051f2500addad400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d729b5dfd1a1f2c89d4e8cca219958bd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d729b5dfd1a1f2c89d4e8cca219958bd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f42728cc491de1efca39c115be45630f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f42728cc491de1efca39c115be45630f.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
