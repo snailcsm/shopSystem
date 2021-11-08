@@ -13,3 +13,52 @@ img{
     display: block;
     width: 100%;
 }
+.el-breadcrumb {
+    font-size: 14px;
+    line-height: 1;
+}
+.el-breadcrumb span{
+color: #eee;
+}
+.el-breadcrumb__inner a, .el-breadcrumb__inner.is-link,.el-breadcrumb__item:last-child .el-breadcrumb__inner, .el-breadcrumb__item:last-child .el-breadcrumb__inner a, .el-breadcrumb__item:last-child .el-breadcrumb__inner a:hover, .el-breadcrumb__item:last-child .el-breadcrumb__inner:hover{
+    color: #fff;
+}
+.el-breadcrumb__inner.is-link:hover{
+    color: rgb(255, 208, 75);
+}
+
+.el-table{
+    margin-top: 15px;
+}
+.el-table th.el-table__cell,.el-table tr,.el-table td.el-table__cell{
+    background-color: #353b47;
+    color: #8f9cad;
+    text-align: center;
+}
+.el-table--enable-row-hover .el-table__body tr:hover>td.el-table__cell{
+    background-color: #353b47;
+    color: #8f9cad;
+}
+.el-pagination{
+    margin-top: 15px;
+    color: #fff;
+}
+.el-pagination span{
+    color: #fff;
+}
+.el-pager li{
+    background:none;
+}
+.el-pagination .btn-prev{
+background: #409eff;
+    color: #fff;
+}
+.el-pagination button:disabled{
+    background-color: #53769a;
+}
+.el-table__empty-block{
+    background: #353b47;
+}
+.el-table__empty-block span{
+    color: #8f9cad;
+}

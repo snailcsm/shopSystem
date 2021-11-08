@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71fa540d-837b-4ac2-9a4b-19d0dc306ca2" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a42003d90bdf898bc91e55874f1ae16.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a42003d90bdf898bc91e55874f1ae16.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d4fd79193c37946cffda542cb900bf05.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d4fd79193c37946cffda542cb900bf05.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/19a81060054c307845f13df397a83379.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/19a81060054c307845f13df397a83379.json" afterDir="false" />
@@ -31,6 +32,16 @@
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b856a81fea793b20051f2500addad400.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b856a81fea793b20051f2500addad400.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f59ea1af85e36fb1844d68f6a0a7c8ac.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f59ea1af85e36fb1844d68f6a0a7c8ac.json" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/193d2b5cde31c8da76753f496cf53949.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/193d2b5cde31c8da76753f496cf53949.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1a4d209478031dcc6f3e527b31309409.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1a4d209478031dcc6f3e527b31309409.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/79955882d0e8edd76341edb27d89d3db.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/79955882d0e8edd76341edb27d89d3db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b856a81fea793b20051f2500addad400.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b856a81fea793b20051f2500addad400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d729b5dfd1a1f2c89d4e8cca219958bd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d729b5dfd1a1f2c89d4e8cca219958bd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f42728cc491de1efca39c115be45630f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f42728cc491de1efca39c115be45630f.json" afterDir="false" />
+>>>>>>> user
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +68,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/font" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\学习资料\vue\电商系统\wwwroot\shop\src\assets\font" />
       <recent name="F:\学习资料\vue\电商系统\wwwroot\shop\src\assets" />
       <recent name="F:\学习资料\vue\电商系统\wwwroot\shop\src\assets\css" />
     </key>
@@ -77,7 +89,12 @@
       <option name="presentableId" value="Default" />
       <updated>1635737909741</updated>
       <workItem from="1635737912110" duration="15445000" />
-      <workItem from="1635817943174" duration="13559000" />
+      <workItem from="1635817943174" duration="15951000" />
+      <workItem from="1635907877642" duration="17407000" />
+      <workItem from="1635990936190" duration="17148000" />
+      <workItem from="1636076780046" duration="6175000" />
+      <workItem from="1636091721606" duration="10981000" />
+      <workItem from="1636336665490" duration="13512000" />
     </task>
     <servers />
   </component>
@@ -97,6 +114,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636101960125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636101960125" />
+    <state x="889" y="472" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635911876464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="889" y="472" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1635911876464" />
+    <state x="0" y="0" width="647" height="697" key="dock-window-1" timestamp="1636336776052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="647" height="697" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1636336776052" />
+    <state x="0" y="0" width="1159" height="966" key="dock-window-2" timestamp="1635991337586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1159" height="966" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1635991337586" />
+    <state x="750" y="319" key="run.anything.popup" timestamp="1636101942402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="319" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636101942402" />
     <state x="936" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1635840768480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

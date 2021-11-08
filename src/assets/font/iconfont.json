@@ -6,6 +6,90 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "960334",
+      "name": "商品监控",
+      "font_class": "shangpinjiankong",
+      "unicode": "e8a6",
+      "unicode_decimal": 59558
+    },
+    {
+      "icon_id": "1221713",
+      "name": "商品分类",
+      "font_class": "shangpinfenlei",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "1305367",
+      "name": "数据01",
+      "font_class": "shuju01",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1308389",
+      "name": "202用户_用户3",
+      "font_class": "202yonghu_yonghu3",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "1975329",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "4770737",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "6129158",
+      "name": "118订单、订单查询",
+      "font_class": "dingdandingdanchaxun",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "7226230",
+      "name": "商品管理",
+      "font_class": "shangpinguanli1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11121424",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "12771481",
+      "name": "用户管理",
+      "font_class": "yonghuguanli1",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "12771538",
+      "name": "用户管理",
+      "font_class": "yonghuguanli2",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "17523080",
+      "name": "用户管理-行政管理",
+      "font_class": "yonghuguanli-hangzhengguanli",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
       "icon_id": "690719",
       "name": "注册登录-用户名",
       "font_class": "zhucedengluyonghuming",
