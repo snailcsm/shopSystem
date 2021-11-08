@@ -19,28 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71fa540d-837b-4ac2-9a4b-19d0dc306ca2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3006f274aee9de9f9ed8b3b17f0899ac.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3006f274aee9de9f9ed8b3b17f0899ac.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a42003d90bdf898bc91e55874f1ae16.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a42003d90bdf898bc91e55874f1ae16.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8a21e69a0f0c1c80e602e6dd340da9c3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8a21e69a0f0c1c80e602e6dd340da9c3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d4fd79193c37946cffda542cb900bf05.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d4fd79193c37946cffda542cb900bf05.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/193d2b5cde31c8da76753f496cf53949.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/193d2b5cde31c8da76753f496cf53949.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/19a81060054c307845f13df397a83379.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/19a81060054c307845f13df397a83379.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1a4d209478031dcc6f3e527b31309409.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1a4d209478031dcc6f3e527b31309409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1bfaf09223044efac3833912c46191a3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1bfaf09223044efac3833912c46191a3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/25f6a14106ff22bf73676a4bc6972502.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/25f6a14106ff22bf73676a4bc6972502.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3fc219f218b6a559282ccee7cadf76a0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3fc219f218b6a559282ccee7cadf76a0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6ac84a13028a951c99a82cef83bed80b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6ac84a13028a951c99a82cef83bed80b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6f843f36afa839ebc8c391fbb97d98dc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6f843f36afa839ebc8c391fbb97d98dc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/758cbf18cde33b2584badb1599dc83d0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/758cbf18cde33b2584badb1599dc83d0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/79955882d0e8edd76341edb27d89d3db.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/79955882d0e8edd76341edb27d89d3db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/859f6a554d7197a1ee1da2a7314cb8c2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/859f6a554d7197a1ee1da2a7314cb8c2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/991b4e95b7ccad12a81be3d63a5673ec.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/991b4e95b7ccad12a81be3d63a5673ec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b856a81fea793b20051f2500addad400.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b856a81fea793b20051f2500addad400.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d729b5dfd1a1f2c89d4e8cca219958bd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d729b5dfd1a1f2c89d4e8cca219958bd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f42728cc491de1efca39c115be45630f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f42728cc491de1efca39c115be45630f.json" afterDir="false" />
-    </list>
+    <list default="true" id="71fa540d-837b-4ac2-9a4b-19d0dc306ca2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
