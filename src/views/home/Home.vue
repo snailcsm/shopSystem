@@ -153,10 +153,8 @@
 </script>
 
 <style scoped>
-<<<<<<< HEAD
 
-</style>git
-=======
+</style>
   .container{
     height: 100%;
   }
@@ -221,4 +219,3 @@
     color: #fff;
   }
 </style>
->>>>>>> user
