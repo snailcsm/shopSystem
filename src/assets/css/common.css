@@ -8,10 +8,16 @@ html,body{
     height:100%;
     width: 100%;
     overflow: hidden;
+    min-width:1000px;
 }
 img{
     display: block;
     width: 100%;
+}
+.page-contain{
+    background: #353b47;
+    margin-top:20px;
+    padding: 20px;
 }
 .el-breadcrumb {
     font-size: 14px;
@@ -61,4 +67,20 @@ background: #409eff;
 }
 .el-table__empty-block span{
     color: #8f9cad;
+}
+.el-tabs__item{
+    color: #fff;
+}
+.el-tab-pane{
+    color: #fff;
+    display: none;
+}
+.el-tabs__header{
+    margin-bottom: 0;
+}
+.el-tabs__item.is-active{
+    color: rgb(255, 208, 75);
+}
+.el-table__expand-icon{
+    color: #fff;
 }

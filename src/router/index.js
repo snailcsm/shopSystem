@@ -4,6 +4,8 @@ import Login from "../views/Login";
 import Home from "../views/home/Home";
 import Welcome from "../views/home/Welcome";
 import User from "../views/user/User";
+import Roles from "../views/rights/Roles";
+import Rights from "../views/rights/Rights";
 
 Vue.use(VueRouter)
 
@@ -32,7 +34,18 @@ const routes = [
         name:'用户列表',
         path:'/user',
         component:User
-      }]
+      },
+      {
+        name:'角色列表',
+        path:'/roles',
+        component:Roles
+      },
+      {
+        name:'权限列表',
+        path:'/rights',
+        component:Rights
+      }
+      ]
   }
 ]
 

@@ -67,12 +67,12 @@
                 "title": "权限管理",
                 "children": [
                   {
-                    "id": "21",
-                    "title": "角色列表"
-                  },
-                  {
                     "id": "22",
                     "title": "权限列表"
+                  },
+                  {
+                    "id": "21",
+                    "title": "角色列表"
                   }
                 ]
               },
@@ -113,13 +113,13 @@
             ],
             navListData: {
               '1':{icon:'iconfont icon-202yonghu_yonghu3',path:'/user'},
-              '2':{icon:'iconfont icon-yonghuguanli',path:'/role'},
+              '2':{icon:'iconfont icon-yonghuguanli',path:'/roles'},
               '3':{icon:'iconfont icon-shangpinjiankong',path:'/goodsList'},
               '4':{icon:'iconfont icon-dingdandingdanchaxun',path:'/orderList'},
               '5':{icon:'iconfont icon-yonghuguanli-hangzhengguanli',path:'dataList'},
               '11':{icon:'iconfont icon-zhucedengluyonghuming',path:'/user'},
-              '21':{icon:'iconfont icon-yonghuguanli1',path:'/role'},
-              '22':{icon:'iconfont icon-yonghuguanli2',path:'/right'},
+              '21':{icon:'iconfont icon-yonghuguanli1',path:'/roles'},
+              '22':{icon:'iconfont icon-yonghuguanli2',path:'/rights'},
               '31':{icon:'iconfont icon-shangpinfenlei',path:'/goodsList'},
               '32':{icon:'iconfont icon-shangpinguanli1',path:'/goodsType'},
               '41':{icon:'iconfont icon-shangpinguanli',path:'/orderList'},
@@ -153,8 +153,6 @@
 </script>
 
 <style scoped>
-
-</style>
   .container{
     height: 100%;
   }
