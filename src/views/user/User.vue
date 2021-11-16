@@ -1,10 +1,11 @@
 <template>
    <div class="user">
      <el-breadcrumb separator-class="el-icon-arrow-right">
-       <el-breadcrumb-item :to="{ path: '/' }">首页</el-breadcrumb-item>
+       <el-breadcrumb-item :to="{ path: '/home' }">首页</el-breadcrumb-item>
+       <el-breadcrumb-item>用户管理</el-breadcrumb-item>
        <el-breadcrumb-item>用户列表</el-breadcrumb-item>
      </el-breadcrumb>
-     <div class="user-contain">
+     <div class="page-contain">
        <el-row :gutter="20">
          <el-col :span="6"><div class="grid-content bg-purple">
            <el-input placeholder="请输入搜索内容" v-model="infoKey" clearable @clear="getData">
@@ -94,7 +95,7 @@
      </div>
 
      <!--添加用户对话框-->
-     <el-dialog title="添加新用户" :visible.sync="addUserDialog">
+     <el-dialog title="添加新用户" :visible.sync="addUserDialog" @close="clearInfo">
        <el-form :model="newUser" ref="addUserRef" :rules="rules">
          <el-form-item label="姓名" :label-width="formLabelWidth" prop="name">
            <el-input v-model="newUser.name" autocomplete="off"></el-input>
@@ -113,7 +114,7 @@
          <el-button @click="closeAdd">取 消</el-button>
          <el-button type="primary" @click="addUser">确 定</el-button>
        </div>
-     </el-dialog>
+     </el-dialog >
 
      <!--修改信息对话框-->
      <el-dialog title="修改用户信息" :visible.sync="editUserDialog">
@@ -294,10 +295,6 @@ import {nanoid} from 'nanoid'
         },
         //打开添加用户对话框
         openAddUserDialog(){
-          this.newUser.name="";
-          this.newUser.role="";
-          this.newUser.mobile="";
-          this.newUser.password="";
           this.addUserDialog=true;
         },
         //添加用户
@@ -310,7 +307,7 @@ import {nanoid} from 'nanoid'
           //校验数据
             this.$refs.addUserRef.validate((value,obj)=>{
                  if(value){
-                 this.serverData.unshift(this.newUser);
+                 this.serverData.unshift(JSON.parse(JSON.stringify(this.newUser)));
                  this.chanUserData();
                  this.$message.success('添加成功！');
                  this.addUserDialog=false;
@@ -324,8 +321,11 @@ import {nanoid} from 'nanoid'
         },
         //关闭添加用户对话框
         closeAdd(){
-          this.$refs.addUserRef.resetFields();//清空表格内容
+
           this.addUserDialog=false;
+        },
+        clearInfo(){
+          this.$refs.addUserRef.resetFields();//清空表格内容
         },
         //点击修改用户
         handleEdit(editObj){
@@ -385,11 +385,7 @@ import {nanoid} from 'nanoid'
 </script>
 
 <style scoped>
-.user-contain{
-  background: #353b47;
-  margin-top:20px;
-  padding: 20px;
-}
+
   .user-table{
     border-radius: 6px;
     overflow: hidden;

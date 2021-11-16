@@ -11,7 +11,7 @@ import "./assets/font/iconfont.css"
 import "./assets/css/common.css"
 
 
-axios.defaults.baseURL="http://192.168.0.153:8081";
+axios.defaults.baseURL="http://192.168.0.195:8081";
 axios.defaults.headers={'Content-Type': 'application/x-www-form-urlencoded'};
 axios.defaults.transformRequest=[function (data) {
   // Do whatever you want to transform the data

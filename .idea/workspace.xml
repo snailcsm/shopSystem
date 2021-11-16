@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71fa540d-837b-4ac2-9a4b-19d0dc306ca2" name="Default Changelist" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a42003d90bdf898bc91e55874f1ae16.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a42003d90bdf898bc91e55874f1ae16.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d4fd79193c37946cffda542cb900bf05.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d4fd79193c37946cffda542cb900bf05.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/19a81060054c307845f13df397a83379.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/19a81060054c307845f13df397a83379.json" afterDir="false" />
@@ -41,6 +42,16 @@
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d729b5dfd1a1f2c89d4e8cca219958bd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d729b5dfd1a1f2c89d4e8cca219958bd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e3d6aa296a9d00867ebb9a24d80b2c09.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f42728cc491de1efca39c115be45630f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f42728cc491de1efca39c115be45630f.json" afterDir="false" />
+>>>>>>> user
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2bb6beb97a60660092eee18f433174e2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2bb6beb97a60660092eee18f433174e2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1e5e32f66f300dd3714e7c50a9a354e9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1e5e32f66f300dd3714e7c50a9a354e9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1f415398e67eb7aaf28584ff720cd83d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1f415398e67eb7aaf28584ff720cd83d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/20d948b642db15aa3a139e337526f642.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/20d948b642db15aa3a139e337526f642.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/977a5247c79e00275ce1fc1a550ba424.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/977a5247c79e00275ce1fc1a550ba424.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e00413a3244bbd87efbd8e787a3ffda7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e00413a3244bbd87efbd8e787a3ffda7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
 >>>>>>> user
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +79,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../项目文件/学习/vue学习/202107/mygitmall" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -95,6 +106,7 @@
       <workItem from="1636076780046" duration="6175000" />
       <workItem from="1636091721606" duration="10981000" />
       <workItem from="1636336665490" duration="13512000" />
+      <workItem from="1636423022872" duration="1734000" />
     </task>
     <servers />
   </component>
@@ -122,6 +134,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="889" y="472" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1635911876464" />
+    <state x="625" y="398" key="FileChooserDialogImpl" timestamp="1636423068135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="398" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1636423068135" />
     <state x="0" y="0" width="647" height="697" key="dock-window-1" timestamp="1636336776052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
